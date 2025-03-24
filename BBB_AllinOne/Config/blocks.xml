@@ -46,7 +46,7 @@ Deco Aufheben:
 </append>
 
 Deco Schädel mitnehmen
-<append xpath="/blocks/block[@name='decoEntityPolymerMaster']">
+<append xpath="/blocks/block[@name='decoCowSkull']">
     <property name="CanPickup" value="true" />
 </append>
 
