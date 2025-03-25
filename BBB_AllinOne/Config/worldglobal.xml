@@ -1,0 +1,5 @@
+<configs>
+
+<setattribute xpath="/worldglobal/environment/property[@name='fogWater']" name="value">.87, .2</setattribute>
+
+</configs>
