@@ -1,0 +1,501 @@
+<configs>
+
+POI_FAT_COP_ZOMBIE_GROUPS
+
+POI_INDIVIDUAL_ENTITY_GROUPS
+
+<!-- *** BIOME_GROUPS -->
+	<!-- *** BIOME_ALL_ZOMBIES_GROUP -->
+<set xpath="/entitygroups/entitygroup[@name='ZombiesAll']">
+		RAxtzombieBBB
+		LampenzombieBBB
+		RMesserzombieBBB
+		KMesserzombieBBB
+		zombieBoe
+		zombieJoe
+		zombieSteve
+		zombieTomClark
+		zombieMoe
+		zombieYo
+		zombieBusinessMan
+		zombieArlene
+		zombieDarlene
+		zombieMarlene
+		zombieSkateboarder
+		zombieBiker, .3
+		zombiePartyGirl, .3
+		zombieUtilityWorker, .3
+		zombieJanitor, .2
+		zombieNurse, .3
+		zombieSteveCrawler
+		zombieFatHawaiian, .3
+		zombieBowler, .3
+
+</set>
+
+	<!-- *** BIOME_ZOMBIES_NIGHT_GROUP -->
+<set xpath="/entitygroups/entitygroup[@name='ZombiesNight']">
+		RAxtzombieRadiatedBBB
+		LampenzombieBBB
+		KMesserzombieRadiatedBBB
+		KurbiszombieRadiatedBBB
+		RAxtzombieFeralBBB
+		RMesserzombieFeralBBB
+		KMesserzombieFeralBBB
+		KurbiszombieFeralBBB
+		RAxtzombieBBB
+		RMesserzombieBBB
+		KMesserzombieBBB
+		KurbiszombieBBB
+		zombieSpider
+		zombieSpiderFeral, .25
+		zombieBoe
+		zombieBoeFeral, .25
+		zombieJoe
+		zombieJoeFeral, .25
+		zombieSteve
+		zombieTomClark
+		zombieSteveFeral, .25
+		zombieTomClarkFeral, .25
+		zombieMoe
+		zombieMoeFeral, .25
+		zombieYo
+		zombieYoFeral, .25
+		zombieBusinessMan
+		zombieBusinessManFeral, .25
+		zombieArlene
+		zombieArleneFeral, .25
+		zombieDarlene
+		zombieDarleneFeral, .25
+		zombieMarlene
+		zombieMarleneFeral, .25
+		zombieNurse
+		zombieNurseFeral, .25
+		animalZombieDog, .05
+		animalDireWolf, .01
+		zombieSteveCrawler
+		zombieFatHawaiian
+		zombieFatHawaiianFeral, .25
+		zombieBowler, .1
+		zombieBowlerFeral, .1
+
+</set>
+
+	<!-- *** BIOME_ZOMBIES_FOREST_DOWNTOWN_GROUP -->
+<set xpath="/entitygroups/entitygroup[@name='ZombiesForestDowntown']">
+		RAxtzombieRadiatedBBB
+		KMesserzombieRadiatedBBB
+		RAxtzombieFeralBBB
+		RMesserzombieFeralBBB
+		KMesserzombieFeralBBB
+		RAxtzombieBBB
+		RMesserzombieBBB
+		KMesserzombieBBB
+		zombieSpider
+		zombieSpiderFeral, .1
+		zombieBoe
+		zombieBoeFeral, .1
+		zombieJoe
+		zombieJoeFeral, .1
+		zombieSteve
+		zombieSteveFeral, .1
+		zombieTomClark
+		zombieTomClarkFeral, .1
+		zombieMoe
+		zombieMoeFeral, .1
+		zombieYo
+		zombieYoFeral, .1
+		zombieBusinessMan, 1.5
+		zombieBusinessManFeral, .15
+		zombieArlene
+		zombieArleneFeral, .1
+		zombieDarlene
+		zombieDarleneFeral, .1
+		zombieMarlene
+		zombieMarleneFeral, .1
+		zombieNurse
+		zombieNurseFeral, .1
+		zombiePartyGirl
+		zombiePartyGirlFeral, .1
+		zombieFatHawaiian
+		zombieFatHawaiianFeral, .1
+		zombieBowler, .1
+		zombieBowlerFeral, .1
+		zombieSteveCrawlerFeral, .1
+		zombieFatCop, .4
+		zombieFatCopFeral, .05
+		zombieSoldier, .4
+		zombieSoldierFeral, .05
+		animalZombieDog, .1
+		animalDireWolf, .1
+		animalWolf, .1
+
+</set>
+
+	<!-- *** BIOME_ZOMBIES_FOREST_DOWNTOWN_NIGHT_GROUP -->
+<set xpath="/entitygroups/entitygroup[@name='ZombiesForestDowntownNight']">
+		RAxtzombieRadiatedBBB
+		LampenzombieBBB
+		KMesserzombieRadiatedBBB
+		KurbiszombieRadiatedBBB
+		RAxtzombieFeralBBB
+		RMesserzombieFeralBBB
+		KMesserzombieFeralBBB
+		KurbiszombieFeralBBB
+		RAxtzombieBBB
+		RMesserzombieBBB
+		KMesserzombieBBB
+		KurbiszombieBBB
+		zombieSpider
+		zombieSpiderFeral, .3
+		zombieBoe
+		zombieBoeFeral, .3
+		zombieJoe
+		zombieJoeFeral, .3
+		zombieSteve
+		zombieSteveFeral, .3
+		zombieTomClark
+		zombieTomClarkFeral, .3
+		zombieMoe
+		zombieMoeFeral, .3
+		zombieYo
+		zombieYoFeral, .3
+		zombieBusinessMan, 1.5
+		zombieBusinessManFeral, .5
+		zombieArlene
+		zombieArleneFeral, .3
+		zombieDarlene
+		zombieDarleneFeral, .3
+		zombieMarlene
+		zombieMarleneFeral, .3
+		zombieNurse
+		zombieNurseFeral, .3
+		zombiePartyGirl
+		zombiePartyGirlFeral, .3
+		zombieFatHawaiian
+		zombieFatHawaiianFeral, .3
+		zombieBowler, .1
+		zombieBowlerFeral, .1
+		zombieSteveCrawlerFeral, .3
+		zombieFatCop, .4
+		zombieFatCopFeral, .15
+		zombieSoldier, .4
+		zombieSoldierFeral, .15
+		animalZombieDog, .3
+		animalDireWolf, .1
+		animalWolf, .3
+
+</set>
+
+<!-- *** BIOME_ZOMBIES_DOWNTOWN_GROUP -->
+<set xpath="/entitygroups/entitygroup[@name='ZombiesDowntown']">
+		RAxtzombieRadiatedBBB
+		KMesserzombieRadiatedBBB
+		RAxtzombieFeralBBB
+		RMesserzombieFeralBBB
+		KMesserzombieFeralBBB
+		RAxtzombieBBB
+		RMesserzombieBBB
+		KMesserzombieBBB
+		zombieSpider
+		zombieSpiderFeral, .5
+		zombieBoe
+		zombieBoeFeral, .5
+		zombieJoe
+		zombieJoeFeral, .5
+		zombieSteve
+		zombieSteveFeral, .5
+		zombieTomClark
+		zombieTomClarkFeral, .5
+		zombieMoe
+		zombieMoeFeral, .5
+		zombieYo
+		zombieYoFeral, .5
+		zombieBusinessMan, 1.5
+		zombieBusinessManFeral, .75
+		zombieArlene
+		zombieArleneFeral, .5
+		zombieDarlene
+		zombieDarleneFeral, .5
+		zombieMarlene
+		zombieMarleneFeral, .5
+		zombieNurse
+		zombieNurseFeral, .5
+		zombiePartyGirl
+		zombiePartyGirlFeral, .5
+		zombieFatHawaiian
+		zombieFatHawaiianFeral, .5
+		zombieBowler, .1
+		zombieBowlerFeral, .1
+		zombieSteveCrawlerFeral, .5
+		zombieFatCop, .5
+		zombieFatCopFeral, .25
+		zombieSoldier, .5
+		zombieSoldierFeral, .25
+		zombieWightFeral, .2
+		zombieDemolition, .02
+		animalZombieDog, .4
+		animalDireWolf, .1
+		animalWolf, .4
+		animalDireWolf, .05
+
+</set>
+
+
+<!-- *** BIOME_ZOMBIES_WASTELAND_GROUP -->
+<set xpath="/entitygroups/entitygroup[@name='ZombiesWasteland']">
+		RAxtzombieRadiatedBBB
+		KMesserzombieRadiatedBBB
+		RAxtzombieFeralBBB
+		RMesserzombieFeralBBB
+		KMesserzombieFeralBBB
+		RAxtzombieBBB
+		RMesserzombieBBB
+		KMesserzombieBBB
+		zombieMutated, 2
+		zombieSpider, 2
+		zombieBoe
+		zombieJoe
+		zombieSteve
+		zombieTomClark
+		zombieMoe
+		zombieYo
+		zombieBusinessMan
+		zombieArlene
+		zombieDarlene
+		zombieMarlene
+		zombieNurse
+		zombieSteveCrawler
+		zombieFemaleFat, 2
+		zombieFatCop, 2
+		zombieBurnt, 2
+		zombieMaleHazmat, 2
+		zombieFatHawaiian, 2
+		zombieBowler, .1
+		zombieSoldier, 2
+
+</set>
+
+
+<!-- *** BIOME_ZOMBIES_WASTELAND_NIGHT_GROUP -->
+<set xpath="/entitygroups/entitygroup[@name='ZombiesWastelandNight']">
+		RAxtzombieRadiatedBBB
+		LampenzombieBBB
+		KMesserzombieRadiatedBBB
+		KurbiszombieRadiatedBBB
+		RAxtzombieFeralBBB
+		RMesserzombieFeralBBB
+		KMesserzombieFeralBBB
+		KurbiszombieFeralBBB
+		RAxtzombieBBB
+		RMesserzombieBBB
+		KMesserzombieBBB
+		KurbiszombieBBB
+		zombieMutatedFeral, 2
+		zombieSpiderFeral, 2
+		zombieBoeFeral
+		zombieJoeFeral
+		zombieSteveFeral
+		zombieTomClarkFeral
+		zombieMoeFeral
+		zombieYoFeral
+		zombieBusinessManFeral
+		zombieArleneFeral
+		zombieDarleneFeral
+		zombieMarleneFeral
+		zombieNurseFeral
+		zombieSteveCrawlerFeral
+		zombieFemaleFatFeral, 2
+		zombieFatCopFeral, 2
+		zombieBurntFeral, 2
+		zombieWightFeral, 2
+		zombieMaleHazmatFeral, 2
+		zombieFatHawaiianFeral, 2
+		zombieBowlerFeral, .1
+		zombieSoldierFeral, 2
+
+</set>
+
+
+<!-- *** BIOME_ZOMBIES_WASTELAND_DOWNTOWN_GROUP -->
+<set xpath="/entitygroups/entitygroup[@name='ZombiesWastelandDowntown']">
+		RAxtzombieRadiatedBBB
+		KMesserzombieRadiatedBBB
+		KurbiszombieRadiatedBBB
+		RAxtzombieFeralBBB
+		RMesserzombieFeralBBB
+		KMesserzombieFeralBBB
+		KurbiszombieFeralBBB
+		RAxtzombieBBB
+		RMesserzombieBBB
+		KMesserzombieBBB
+		KurbiszombieBBB
+		zombieMutated, 2
+		zombieMutatedFeral
+		zombieSpider, 2
+		zombieSpiderFeral
+		zombieBurnt, 2
+		zombieBurntFeral
+		zombieMaleHazmat, 2
+		zombieMaleHazmatFeral
+		zombieBoe
+		zombieBoeFeral, .5
+		zombieJoe
+		zombieJoeFeral, .5
+		zombieSteve
+		zombieSteveFeral, .5
+		zombieTomClark
+		zombieTomClarkFeral, .5
+		zombieMoe
+		zombieMoeFeral, .5
+		zombieYo
+		zombieYoFeral, .5
+		zombieBusinessMan, 2
+		zombieBusinessManFeral
+		zombieArlene
+		zombieArleneFeral, .5
+		zombieDarlene
+		zombieDarleneFeral, .5
+		zombieMarlene
+		zombieMarleneFeral, .5
+		zombieNurse
+		zombieNurseFeral, .5
+		zombiePartyGirl
+		zombiePartyGirlFeral, .5
+		zombieFatHawaiian
+		zombieFatHawaiianFeral, .5
+		zombieBowler, .1
+		zombieBowlerFeral, .1
+		zombieSteveCrawlerFeral, .5
+		zombieFatCop
+		zombieFatCopFeral, .5
+		zombieSoldier
+		zombieSoldierFeral, .5
+		zombieWightFeral, .5
+		zombieDemolition, .05
+		animalZombieDog, .8
+		animalDireWolf, .1
+		animalWolf, .8
+		animalDireWolf, .1
+
+</set>
+
+
+<!-- *** BIOME_ZOMBIES_WASTELAND_NIGHT_NO_BEARS_GROUP -->
+<set xpath="/entitygroups/entitygroup[@name='ZombiesWastelandNightNoBears']">
+		RAxtzombieRadiatedBBB
+		LampenzombieBBB
+		KMesserzombieRadiatedBBB
+		KurbiszombieRadiatedBBB
+		RAxtzombieFeralBBB
+		RMesserzombieFeralBBB
+		KMesserzombieFeralBBB
+		KurbiszombieFeralBBB
+		RAxtzombieBBB
+		RMesserzombieBBB
+		KMesserzombieBBB
+		KurbiszombieBBB
+		zombieSpider
+		zombieBoe
+		zombieJoe
+		zombieSteve
+		zombieTomClark
+		zombieMoe
+		zombieYo
+		zombieArlene
+		zombieDarlene
+		zombieMarlene
+		zombieNurse
+		animalZombieDog
+		animalDireWolf, .1
+		zombieSteveCrawler
+		zombieFatCop
+		zombieBurnt
+		zombieWightFeral
+		animalZombieVulture, .6
+		animalZombieVultureRadiated, .4
+		zombieMaleHazmat, .2
+		zombieFatHawaiian
+		zombieBowler, .1
+
+</set>
+
+
+	<!-- *** BIOME_ZOMBIES_WASTELAND_NIGHT_2_GROUP -->
+<set xpath="/entitygroups/entitygroup[@name='ZombiesWastelandNight2']">
+		RAxtzombieRadiatedBBB
+		LampenzombieBBB
+		KMesserzombieRadiatedBBB
+		KurbiszombieRadiatedBBB
+		RAxtzombieFeralBBB
+		RMesserzombieFeralBBB
+		KMesserzombieFeralBBB
+		KurbiszombieFeralBBB
+		RAxtzombieBBB
+		RMesserzombieBBB
+		KMesserzombieBBB
+		KurbiszombieBBB
+		zombieSpider
+		zombieBoe, .05
+		zombieJoe, .05
+		zombieSteve, .05
+		zombieTomClark, .05
+		zombieMoe, .05
+		zombieYo, .05
+		zombieArlene
+		zombieDarlene
+		zombieMarlene
+		zombieNurse
+		animalZombieDog, .15
+		animalDireWolf, .1
+		zombieSteveCrawler, .05
+		zombieFatCop, .15
+		zombieBurnt, .07
+		animalZombieBear, .1
+		zombieWightFeral, .1
+		animalZombieVulture, .6
+		animalZombieVultureRadiated, .4
+		zombieFatHawaiian
+		zombieBowler, .1
+
+</set>
+	
+
+<!-- *** BIOME_ZOMBIES_WASTELAND_NIGHT_2_BEARS_GROUP -->
+<set xpath="/entitygroups/entitygroup[@name='ZombiesWastelandNight2NoBears']">
+		RAxtzombieRadiatedBBB
+		LampenzombieBBB
+		KMesserzombieRadiatedBBB
+		KurbiszombieRadiatedBBB
+		RAxtzombieFeralBBB
+		RMesserzombieFeralBBB
+		KMesserzombieFeralBBB
+		KurbiszombieFeralBBB
+		RAxtzombieBBB
+		RMesserzombieBBB
+		KMesserzombieBBB
+		KurbiszombieBBB
+		zombieSpider
+		zombieBoe, .05
+		zombieJoe, .05
+		zombieSteve, .05
+		zombieTomClark, .05
+		zombieMoe, .05
+		zombieYo, .05
+		zombieArlene
+		zombieDarlene
+		zombieMarlene
+		zombieNurse
+		animalZombieDog, .15
+		animalDireWolf, .1
+		zombieSteveCrawler, .05
+		zombieFatCop, .15
+		zombieBurnt, .07
+		zombieWightFeral, .1
+		zombieFatHawaiian
+		zombieBowler, .1
+
+</set>
+
+
+</configs>
