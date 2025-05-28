@@ -1,5 +1,18 @@
 key,English,German
 
+KurbiszombieBBB,"Xyth","Xyth"
+KMesserzombieBBB,"Arlene2.0","Arlene2.0"
+RMesserzombieBBB,"Spider2.0","Spider2.0"
+RAxtzombieBBB,"Lumberjack2.0","Lumberjack2.0"
+KurbiszombieFeralBBB,"Xyth","Xyth"
+KMesserzombieFeralBBB,"Arlene2.0","Arlene2.0"
+RMesserzombieFeralBBB,"Spider2.0","Spider2.0"
+RAxtzombieFeralBBB,"Lumberjack2.0","Lumberjack2.0"
+KurbiszombieRadiatedBBB,"Xyth","Xyth"
+KMesserzombieRadiatedBBB,"Arlene2.0","Arlene2.0"
+RMesserzombieRadiatedBBB,"Spider2.0","Spider2.0"
+RAxtzombieRadiatedBBB,"Lumberjack2.0","Lumberjack2.0"
+
 medicalT4-1,"Tier 4 Fog Whitw","Stufe 4 Nebel Weiss"
 medicalT4-2,"Tier 4 Fog Red","Stufe 4 Nebel Rot"
 medicalT4-3,"Tier 4 Fog Blue","Stufe 4 Nebel Blau"
