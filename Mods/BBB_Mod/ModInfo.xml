@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <xml>
-	<Name value="BBB_Morning_Star" />
-	<DisplayName value="BBB_Morning_Star" />
-	<Description value="BlueBerryBlue Morning Star" />
+	<Name value="BBB" />
+	<DisplayName value="BBB" />
+	<Description value="BBB Mod to be used with 7 Days to Die" />
 	<Author value="BlueBerryBlue" />
 	<Version value="1.1.0.4" />
 	<Website value="" />
