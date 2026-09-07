@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Servers>
+	<ServerGroup Name="BlueBerryBlue" Logo="https://github.com/user-attachments/assets/61cc3ee6-9416-4ef5-89e6-7e65fe733815" Description="Highly Experimental BBB Builds:)">
+		<Server Name="BBB" Logo="https://github.com/user-attachments/assets/61cc3ee6-9416-4ef5-89e6-7e65fe733815">
+			<Description>
+Recommended: 12G of RAM or higher.
+
+Recommended: Default difficulty.
+
+Required: Game Version V3.2.0
+
+Welcome to the BBB project by BlueBerryBlue.
+
+_____________________/____/__/_/_/________
+°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°
+
+Many thanks to the following modlet creators, who have shared their knowledge and skills with everyone through their tutorials/links/Discord/etc., and have greatly influenced my world.
+
+A big thanks to Max Fox(Xml), Spehrelii(7D2DUnity), Xyth(7D2DUnity), Mac Invisible(7D2DUnity)
+
+A big shoutout to everyone for your work.
+
+      </Description>
+			<Version>Latest</Version>
+			<RSS/>
+			<ReleaseNotes/>
+			<DownloadMode>Clone</DownloadMode>
+			<Downloads>
+				<Download>https://github.com/BlueBerryBlue21/BBB</Download>
+			</Downloads>
+		</Server>
+	</ServerGroup>
+</Servers>
