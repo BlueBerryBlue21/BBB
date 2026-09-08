@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <Servers>
-	<ServerGroup Name="BlueBerryBlue" Logo="https://github.com/user-attachments/assets/61cc3ee6-9416-4ef5-89e6-7e65fe733815" Description="Highly Experimental BBB Builds:)">
-		<Server Name="BBB" Logo="https://github.com/user-attachments/assets/61cc3ee6-9416-4ef5-89e6-7e65fe733815">
+	<ServerGroup Name="BlueBerryBlue" Logo="" Description="Highly Experimental BBB Builds:)">
+		<Server Name="BBB" Logo="">
 			<Description>
 Recommended: 12G of RAM or higher.
 
