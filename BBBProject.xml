@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <Servers>
-	<ServerGroup Name="BlueBerryBlue" Logo="" Description="Highly Experimental BBB Builds:)">
+	<ServerGroup Name="BBB" Logo="" Description="Highly Experimental BBB Builds:)">
 		<Server Name="BBB" Logo="">
 			<Description>
 Recommended: 12G of RAM or higher.
